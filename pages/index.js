@@ -1,6 +1,8 @@
 function Home() {
   return (
-    <h1>Ana Carolina, você é minha vida! Se você me ama, dê um sorrizinho.</h1>
+    <h1>
+      Ana Carolina, você é minha vida! Se você me ama, dê um sorrizinho. s2
+    </h1>
   );
 }
 
